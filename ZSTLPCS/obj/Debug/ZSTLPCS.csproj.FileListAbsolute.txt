@@ -1,0 +1,10 @@
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\bin\Debug\ZSTLPCS.exe.config
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\bin\Debug\ZSTLPCS.exe
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\bin\Debug\ZSTLPCS.pdb
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\obj\Debug\ZSTLPCS.csprojAssemblyReference.cache
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\obj\Debug\ZSTLPCS.Properties.Resources.resources
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\obj\Debug\ZSTLPCS.Main.resources
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\obj\Debug\ZSTLPCS.csproj.GenerateResource.cache
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\obj\Debug\ZSTLPCS.csproj.CoreCompileInputs.cache
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\obj\Debug\ZSTLPCS.exe
+D:\05.宗申动力\12.宗动-通机\2016-通机-通机扭力数据采集程序\源代码\ZSTLPCS\ZSTLPCS\obj\Debug\ZSTLPCS.pdb
